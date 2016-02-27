@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		630698E11C823F0800BD1446 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630698E01C823F0800BD1446 /* ItemCell.swift */; };
 		6309105A1C7D63F9007BB6E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630910591C7D63F9007BB6E3 /* AppDelegate.swift */; };
 		6309105C1C7D63F9007BB6E3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6309105B1C7D63F9007BB6E3 /* ViewController.swift */; };
 		6309105F1C7D63FA007BB6E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6309105D1C7D63FA007BB6E3 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		630698E01C823F0800BD1446 /* ItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
 		630910561C7D63F9007BB6E3 /* Homepwner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homepwner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		630910591C7D63F9007BB6E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6309105B1C7D63F9007BB6E3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				6309106B1C7D6422007BB6E3 /* ItemsViewController.swift */,
+				630698E01C823F0800BD1446 /* ItemCell.swift */,
 				630910591C7D63F9007BB6E3 /* AppDelegate.swift */,
 				6309105B1C7D63F9007BB6E3 /* ViewController.swift */,
 				6309105D1C7D63FA007BB6E3 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 			files = (
 				6309106E1C7D64D2007BB6E3 /* Item.swift in Sources */,
 				6309105C1C7D63F9007BB6E3 /* ViewController.swift in Sources */,
+				630698E11C823F0800BD1446 /* ItemCell.swift in Sources */,
 				6309106C1C7D6422007BB6E3 /* ItemsViewController.swift in Sources */,
 				630910701C7D66DB007BB6E3 /* ItemStore.swift in Sources */,
 				6309105A1C7D63F9007BB6E3 /* AppDelegate.swift in Sources */,
@@ -299,6 +303,7 @@
 				6309106A1C7D63FA007BB6E3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
