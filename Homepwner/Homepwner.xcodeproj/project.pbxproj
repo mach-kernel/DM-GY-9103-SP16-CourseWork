@@ -16,6 +16,7 @@
 		6309106C1C7D6422007BB6E3 /* ItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6309106B1C7D6422007BB6E3 /* ItemsViewController.swift */; };
 		6309106E1C7D64D2007BB6E3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6309106D1C7D64D2007BB6E3 /* Item.swift */; };
 		630910701C7D66DB007BB6E3 /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6309106F1C7D66DB007BB6E3 /* ItemStore.swift */; };
+		63820AC11C8CD9D000633556 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63820AC01C8CD9D000633556 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		6309106B1C7D6422007BB6E3 /* ItemsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ItemsViewController.swift; path = ../ItemsViewController.swift; sourceTree = "<group>"; };
 		6309106D1C7D64D2007BB6E3 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		6309106F1C7D66DB007BB6E3 /* ItemStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
+		63820AC01C8CD9D000633556 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				630910591C7D63F9007BB6E3 /* AppDelegate.swift */,
 				6309105B1C7D63F9007BB6E3 /* ViewController.swift */,
 				6309105D1C7D63FA007BB6E3 /* Main.storyboard */,
+				63820AC01C8CD9D000633556 /* DetailViewController.swift */,
 				6309106D1C7D64D2007BB6E3 /* Item.swift */,
 				6309106F1C7D66DB007BB6E3 /* ItemStore.swift */,
 				630910601C7D63FA007BB6E3 /* Assets.xcassets */,
@@ -154,6 +157,7 @@
 				6309106C1C7D6422007BB6E3 /* ItemsViewController.swift in Sources */,
 				630910701C7D66DB007BB6E3 /* ItemStore.swift in Sources */,
 				6309105A1C7D63F9007BB6E3 /* AppDelegate.swift in Sources */,
+				63820AC11C8CD9D000633556 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
